@@ -1,0 +1,15 @@
+{
+  "name": "alliance-csv-parser",
+  "version": "1.0.0",
+  "description": "A way to parse the sheets of the Alliance to the JSON format Suisei's Mic requires",
+  "main": "index.js",
+  "dependencies": {
+    "csv-parse": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GoldElysium",
+  "license": "MIT"
+}
